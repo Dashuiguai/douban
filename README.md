@@ -5,7 +5,9 @@
 ## 效果图
 
 ![image text](https://github.com/Dashuiguai/douban/raw/master/imgfold/douban1.png)
-
+![image text](https://github.com/Dashuiguai/douban/raw/master/imgfold/douban2.png)
+![image text](https://github.com/Dashuiguai/douban/raw/master/imgfold/douban3.png)
+![image text](https://github.com/Dashuiguai/douban/raw/master/imgfold/douban4.png)
 ## Build Setup
 
 ``` bash
