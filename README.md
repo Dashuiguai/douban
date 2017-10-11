@@ -4,7 +4,7 @@
 
 ## 效果图
 
-![image text](https://github.com/Dashuiguai/douban/master/imgfold/douban1.png)
+![image text](https://github.com/Dashuiguai/douban/raw/master/imgfold/douban1.png)
 
 ## Build Setup
 
